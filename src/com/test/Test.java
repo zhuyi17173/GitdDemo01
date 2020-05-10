@@ -6,6 +6,7 @@ package com.test;
  * @Version 1.0
  */
 public class Test {
+    private String address;
     private String name;
     private int age;
 
