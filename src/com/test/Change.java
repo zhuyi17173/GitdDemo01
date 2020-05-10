@@ -3,7 +3,7 @@ package com.test;
 import java.util.Scanner;
 
 /**
- * @Author: 苏金朋
+ * @Author: 朱屹
  * @Date 2020/5/8 8:35
  * @Description:
  */
