@@ -7,6 +7,7 @@ package com.test;
  */
 public class Test {
     private String address;
+    private String name;
 
     public static void main(String[] args) {
         System.out.println("这是我测试默认格式...");
